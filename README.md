@@ -7,3 +7,5 @@ cs245 Network Programming Assesment
 serverchat.c
 
 clientchat.c
+
+compile both using c . Run server first
