@@ -2,7 +2,7 @@
 
 cs245 Network Programming Assesment
 
-# Assigment 1
+# Client Server Chat
 
 serverchat.c
 
