@@ -8,4 +8,4 @@ serverchat.c
 
 clientchat.c
 
-compile both using c . Run server first
+compile both using c . Run *./a.out* in server first
