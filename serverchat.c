@@ -5,6 +5,8 @@
 #include<netdb.h>
 #include<stdlib.h>
 #include<string.h>
+#include<unistd.h>
+
 #define MAX 80
 #define PORT 43454
 #define SA struct sockaddr
