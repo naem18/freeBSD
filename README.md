@@ -2,7 +2,7 @@
 
 cs245 Network Programming Assesment
 
-# Client Server Chat
+# 1. Client Server Chat
 
 serverchat.c
 
@@ -10,7 +10,13 @@ clientchat.c
 
 compile both using c . Run *./a.out* in server first
 
-# Project
+# 2. OBB
+
+obb.c
+
+compile using c
+
+# 3. Project
 
 serverdate.java
 
